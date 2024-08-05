@@ -13,7 +13,7 @@ Greet someone
 <!-- start usage -->
 
 ```yaml
-- uses: catalystsquad/action-composite-action-template@undefined
+- uses: catalystcommunity/action-composite-action-template@undefined
   with:
     # Who to greet
     # Default: World
